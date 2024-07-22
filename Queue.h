@@ -42,7 +42,7 @@ if(new_node){
 
  }
 }*/
-
+//.
 
 int Queue::dequeue() {
     if (headPtr != nullptr) {
